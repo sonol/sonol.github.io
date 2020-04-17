@@ -1,0 +1,19 @@
+<!--#include virtual="/_header.inc" -->
+
+<table width="100%"  border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td><h1 align="left"><img src="../images/contacts.jpg" width="150" height="134" align="right">Контакты</h1>
+      <h3>ООО &quot;ЛОГО&quot;</h3>
+      <p>Адрес: г. Москва, пр. Русанова, 64<br>
+        Тел: (095) 322-22-3<br>
+        Факс: (095) 332-23-32<br>
+        Email: mail@logo.ru </p>
+      <p> <span style="">Режим работы: 9:30 - 18:00 (по рабочим дням) </span></p>
+      <h2>Схема проезда </h2>
+      <p><img src="../images/map.jpg" width="441" height="369"><br> 
+        </p>
+      </td>
+  </tr>
+</table>
+
+<!--#include virtual="/_footer.inc" -->

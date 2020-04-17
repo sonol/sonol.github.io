@@ -1,0 +1,92 @@
+<!--#include virtual="/_header.inc" -->
+
+<table width="100%" height="100%"  border="0" cellpadding="5" cellspacing="0">
+  <tr>
+    <td align="left" valign="top" class="news">      <table width="50" border="0" cellpadding="2" cellspacing="1" bgcolor="#996600">
+      <tr>
+        <td></td>
+        <td bgcolor="#FFFFCC"><span class="newsHeader">Новости</span></td>
+        </tr>
+    </table>      
+      <p class="news"><span class="news_data">10.08.05</span> / <a href="/news/2005-08-10-01.shtml" class="news">ПРИМЕР ВНУТРЕННЕЙ
+        НОВОСТИ</a> </p>
+      <p class="news"><span class="news_data">09.08.05</span> / <a href="http://www.1c.ru/news/info.jsp?id=4287" class="news">"Конфигурирование
+            прикладного решения "1С:Предприятие 8.0. Управление торговлей" - курс
+            обучения в 1С:Учебном Центре №1 </a>          </p>
+      <p class="news"><span class="news_data">09.08.05</span> / <a href="http://www.1c.ru/news/info.jsp?id=4286" class="news">"Конфигурирование
+          бухгалтерской подсистемы в прикладных решениях "1С:Предприятия 8.0" -
+          курс обучения в 1С:Учебном Центре №1 </a>
+            </p>
+      <p class="news"><span class="news_data">09.08.05</span> / <a href="http://www.1c.ru/news/info.jsp?id=4285" class="news">Выездной
+          тренинг "Коммуникативная
+                компетентность руководителя" в г. Санкт-Петербург 03-05 сентября
+                2005г. </a>
+            </p>
+      <p class="news"><span class="news_data">08.08.05</span> / <a href="http://www.1c.ru/news/info.jsp?id=4283" class="news">О
+          выходе "1С:Бухгалтерии
+                8.0 для Беларуси" </a>
+            </p>
+      <p class="news"><span class="news_data">08.08.05</span> / <a href="http://www.1c.ru/news/pressrelise.jsp?id=393" class="news">«1C-Учебному
+                центру № 3» – 5 лет </a>
+            </p>
+      <p class="news"><span class="news_data">05.08.05</span> / <a href="http://www.1c.ru/news/info.jsp?id=4282" class="news">Игровая
+          Демосистема. Обновление №3</a></p>
+      <p class="news">&nbsp;</p>
+      <table width="50" border="0" cellpadding="2" cellspacing="1" bgcolor="#996600">
+        <tr>
+          <td></td>
+          <td bgcolor="#FFFFCC"><span class="newsHeader">Мероприятия</span></td>
+        </tr>
+      </table>
+      <ul style="margin-left:15px; margin-top:5px;">
+        <li><a href="http://www.1c.ru/news/events/event.jsp?id=236" class="news">С 25 августа по 6 октября
+                  партнеры фирмы "1С" проводят семинары-тренинги "БЮДЖЕТНАЯ ОТЧЕТНОСТЬ
+                  ЗА 9 МЕСЯЦЕВ 2005 ГОДА. Практические примеры в программе "1С:Бухгалтерия
+                  7.7 для бюджетных учреждений, ред.5" </a>
+              </li>
+        <li><a href="http://www.1c.ru/news/events/event.jsp?id=221" class="news">С 17 мая до 22 декабря партнеры
+                  фирмы "1С" проводят семинары-тренинги "НАЛОГ НА ПРИБЫЛЬ: налоговый
+                  и бухгалтерский учет и отчетность. Практические примеры в программах "1С:Бухгалтерия
+              7.7" и "1С:Бухгалтерия 8.0"</a></li>
+        <li><a href="http://www.1c.ru//news/info.jsp?id=4185" class="news">C 12 по 14 августа 2005 года в г.
+                  Красноярск пройдет выездной сертифицированный курс "Введение в конфигурирование
+                  в системе "1C:Предприятие 8.0". Основные объекты" </a>
+              </li>
+        <li><a href="http://www.1c.ru//news/info.jsp?id=4111" class="news">C 17 по 20 августа 2005 года в г.
+                  Красноярск пройдет выездной тренинг "Менеджмент и техника продаж
+                  ПП 1С и внедренческих услуг" </a>
+              </li>
+        <li><a href="http://www.1c.ru//news/info.jsp?id=4186" class="news">С 27 по 28 августа 2005 года в г.
+                  Красноярск пройдет выездной сертифицированный курс "Конфигурирование
+              в системе "1C:Предприятие 8.0". Решение бухгалтерских задач" </a></li>
+      </ul>      <p class="news">&nbsp;</p></td>
+    <td width="50%" rowspan="2" align="left" valign="top" style="border-left:solid #996600 1px;"><h1 align="center">Наша
+        профессия - <br>
+        Родину автоматизировать!</h1>
+      <p><span class="newsHeader"><img src="images/main_group_people.jpg" width="150" height="222" border="0" align="right" style="border-color:#996600 "></span>Компания &quot;ЛОГО&quot; является 1C:франчайзи фирмы &quot;1С&quot;. ЛОГО работает на рынке
+        автоматизации управления и учета с 1980 года. </p>
+      <p> Цель компании &quot;ЛОГО&quot; – предоставление полного спектра услуг по автоматизации
+        управления и учета на предприятиях:</p>
+      <ol>
+        <li> Помощь в выборе программных средств </li>
+        <li> Продажа программных продуктов </li>
+        <li> Доставка </li>
+        <li> Установка </li>
+        <li> Настройка </li>
+        <li> Внедрение </li>
+        <li> Послепродажное обслуживание </li>
+        <li> Консультации </li>
+        <li> Обучение пользователей </li>
+        <li> Информационно-технологическое сопровождение <strong></strong></li>
+      </ol>      
+      <p>Предлагаем
+        вашему вниманию широкий ассортимент программного обеспечения компании
+        &quot;1С&quot;. Наши специалисты проведут анализ бизнес процессов на
+        вашем предприятии и помогут вам выбрать оптимальный продукт. </p>
+      <p>С нетерпением ждем Вашего звонка. Будем рады помочь Вам!</p></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" class="news">&nbsp;</td>
+  </tr>
+</table>
+<!--#include virtual="/_footer.inc" -->

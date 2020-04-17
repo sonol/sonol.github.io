@@ -1,0 +1,55 @@
+<!--#include virtual="/_header.inc" -->
+
+<table width="100%"  border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td>
+      <h1 align="center"><strong>Решения для образования</strong></h1>
+      <ul>
+        <li><a href="http://template.1c.ru/budget/obr.shtml#kindergarden">Детские сады</a></li>
+        <li><a href="http://template.1c.ru/budget/obr.shtml#school">Общеобразовательные учреждения</a></li>
+        <li><a href="http://template.1c.ru/budget/obr.shtml#college">Учреждения профтехобразования</a></li>
+        <li><a href="http://template.1c.ru/budget/obr.shtml#hedu">Высшие учебные заведения</a></li>
+        <li><a href="http://template.1c.ru/budget/obr.shtml#govern">Органы управления образованием и централизованные бухгалтерии</a></li>
+      </ul>      <p><a name="kindergarden" id="kindergarden"></a><span style="font-weight: bold">Детские сады</span>. Решения на платформе  «1С:Предприятие» позволяют автоматизировать ведение бухгалтерского учета и  отчетности, расчет окладов и заработной платы сотрудников, а также планирование  и организацию учета питания в учреждениях дошкольного образования. </p>
+      <ul>
+        <li><a href="http://www.1c.ru/news/info.jsp?id=4254" target="_blank"> 1С:Предприятие 7.7. Набор для бухгалтерии образовательного учреждения </a></li>
+        <li> <a href="http://www.1c.ru/news/info.jsp?id=5934" target="_blank">1С:ХроноГраф Тарификация для Бухгалтера ПРОФ </a></li>
+        <li> <a href="http://www.1c.ru/news/info.jsp?id=6070" target="_blank">1С:Школьное Питание ПРОФ </a></li>
+        <li> <a href="http://www.ist.ru/catalog_show1.asp?tab=0&cd=edu" target="_blank">Электронный справочник «Образование и наука» </a></li>
+      </ul>      
+      <p><span style="font-weight: bold"><a name="school"></a>Общеобразовательные учреждения</span>. Программные продукты на платформе  «1С:Предприятие» позволяют автоматизировать основные направления  административной и финансово-хозяйственной деятельности общеобразовательного  учреждения: планирование и оперативное управление учебным процессом, учет  контингента, контроль успеваемости и посещаемости учащихся, кадровый учет,  расчет окладов и заработной платы сотрудников, ведение бухгалтерского учета и  отчетности, планирование и организацию учета питания, учет библиотечного фонда.  Использование программных продуктов в комплексе позволяет формировать единое  информационное пространство общеобразовательного учреждения. </p>
+      <ul>
+        <li> <a href="http://www.1c.ru/news/info.jsp?id=4254" target="_blank">1С:Предприятие 7.7. Набор для бухгалтерии образовательного учреждения </a></li>
+        <li><a href="http://www.1c.ru/news/info.jsp?id=5933" target="_blank">1С:ХроноГраф Школа ПРОФ</a></li>
+        <li><a href="http://www.1c.ru/news/info.jsp?id=3482" target="_blank">1С:ХроноГраф  Тарификация для Бухгалтера</a></li>
+        <li><a href="http://www.1c.ru/news/info.jsp?id=5934" target="_blank">1С:ХроноГраф Тарификация для Бухгалтера ПРОФ</a></li>
+        <li><a href="http://www.1c.ru/news/info.jsp?id=5784" target="_blank">1С:Школьная Библиотека</a></li>
+        <li><a href="http://www.1c.ru/news/info.jsp?id=4483" target="_blank">1С:Школьное Питание</a></li>
+        <li><a href="http://www.1c.ru/news/info.jsp?id=6070" target="_blank">1С:Школьное Питание ПРОФ</a></li>
+        <li><a href="http://www.ist.ru/catalog_show1.asp?tab=0&cd=edu" target="_blank">Электронный справочник «Образование и наука»</a></li>
+        <li><a href="http://www.edu.1c.ru/" target="_blank">Образовательные комплексы серии «1С:Школа» на платформе «1С:Образование  3.0»</a></li>
+        <p><span style="font-weight: bold"><a name="college"></a>Учреждения профтехобразования</span>. Решения на платформе «1С:Предприятие» позволяют  автоматизировать планирование и оперативное управление учебным процессом,  ведение бухгалтерского учета и отчетности, кадровый учет, расчет окладов и  заработной платы сотрудников, учет библиотечного фонда, а также планирование и  организацию учета питания в учреждениях профтехобразования, учитывают их  специфику.</p>
+      <ul>
+        <li><a href="http://www.1c.ru/news/info.jsp?id=4254" target="_blank"> 1С:Предприятие 7.7. Набор для бухгалтерии образовательного учреждения </a></li>
+        <li> <a href="http://www.1c.ru/news/info.jsp?id=5934" target="_blank">1С:ХроноГраф Тарификация для Бухгалтера ПРОФ</a></li>
+        <li><a href="http://www.1c.ru/news/info.jsp?id=4323" target="_blank"> 1С:ХроноГраф Расписание</a></li>
+        <li> <a href="http://www.1c.ru/news/info.jsp?id=3224" target="_blank">1С:Библиотека Колледжа</a></li>
+        <li> <a href="http://www.1c.ru/news/info.jsp?id=6070" target="_blank">1С:Школьное Питание ПРОФ</a></li>
+        <li> <a href="http://www.ist.ru/catalog_show1.asp?tab=0&cd=edu" target="_blank">Электронный справочник «Образование и наука»</a></li>
+      </ul>      <p><a name="hedu"></a><span style="font-weight: bold">Высшие учебные заведения</span>. Решения на платформе  «1С:Предприятие» позволяют автоматизировать планирование и оперативное  управление учебным процессом на отдельных факультетах вузов, ведение  бухгалтерского учета и отчетности, расчет окладов и заработной платы  сотрудников, а также учет книжного фонда и обслуживание преподавателей и  читателей в библиотеке.  </p>
+        <ul>
+          <li> <a href="http://www.1c.ru/news/info.jsp?id=4254" target="_blank">1С:Предприятие 7.7. Набор для бухгалтерии образовательного учреждения</a></li>
+          <li> <a href="http://www.1c.ru/news/info.jsp?id=5934" target="_blank">1С:ХроноГраф Тарификация для Бухгалтера ПРОФ</a></li>
+          <li><a href="http://www.1c.ru/news/info.jsp?id=4323" target="_blank"> 1С:ХроноГраф Расписание</a> </li>
+          <li> <strong>1С:Библиотека ВУЗа </strong></li>
+          <li> <a href="http://www.ist.ru/catalog_show1.asp?tab=0&cd=edu" target="_blank">Электронный справочник «Образование и наука»</a></li>
+      </ul>        <p><a name="govern"></a><span style="font-weight: bold">Органы управления образованием и централизованные бухгалтерии</span>. Решения на платформе «1С:Предприятие» позволяют  консолидировать данные и формировать сводные отчеты по контингенту,  педагогическим кадрам и окладам сотрудников на уровне органов управления  образовательными учреждениями. </p>
+          <ul>
+            <li> <a href="http://www.1c.ru/news/info.jsp?id=5935" target="_blank">1С:ХроноГраф Контингент для Управлений Образования</a></li>
+            <li> <a href="http://www.1c.ru/news/info.jsp?id=5936" target="_blank">1С:ХроноГраф Кадры для Управлений Образования</a> </li>
+            <li> <a href="http://www.1c.ru/news/info.jsp?id=5934" target="_blank">1С:ХроноГраф Тарификация для Бухгалтера ПРОФ</a></li>
+          </ul>          </td>
+  </tr>
+</table>
+
+<!--#include virtual="/_footer.inc" -->

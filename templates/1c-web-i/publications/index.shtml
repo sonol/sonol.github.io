@@ -1,0 +1,80 @@
+<!--#include virtual="/_header.inc" -->
+
+<table width="100%"  border="0" cellspacing="0" cellpadding="10"> 
+  <tr>
+    <td><h1>Публикации в прессе</h1>
+      <TABLE width="100%">
+              <TBODY>
+              <TR>
+                <TD><A class=rightmenu 
+                  href="http://v8.1c.ru/news/publication.jsp?id=76">“1С:Предприятие 
+                  8.0” на сызранском автоагрегатном заводе</A> <FONT 
+                  class=news_small color=#003399>[И.Воронцов / "Финансовая 
+                  газета", № 31, август, 2005]</FONT></TD></TR>
+              <TR>
+                <TD><FONT class=news>В статье И.Воронцова рассказывается об 
+                  особенностях автоматизации управления и учена на ОАО 
+                  "Сызранский Автоагрегатный 
+            Завод".</FONT></TD></TR></TBODY></TABLE>
+      <br>
+      <TABLE width="100%">
+              <TBODY>
+              <TR>
+                <TD><A class=rightmenu 
+                  href="http://ione.ru/scripts/forprint.asp?id=17964">Деньги за 
+                  газ</A> <FONT class=news_small color=#003399>["iOne", июль, 
+                  2005]</FONT></TD></TR>
+              <TR>
+                <TD><FONT class=news>В статье рассказывается об особенностях 
+                  автоматизации учета в межрегиональной компании по реализации 
+                  газа ООО «Межрегионгаз», а также о преимуществах перехода на 
+                  платформу 1С:Предприятие 8.0</FONT></TD></TR></TBODY></TABLE>
+      <br>
+      <TABLE width="100%">
+              <TBODY>
+              <TR>
+                <TD><A class=rightmenu 
+                  href="http://v8.1c.ru/info/aboutus/tim.pdf">1С-PDM — первая 
+                  система для конструктора</A> <FONT class=news_small 
+                  color=#003399>[М.Поршнев / "САПР и графика", июль, 
+                2005]</FONT></TD></TR>
+              <TR>
+                <TD><FONT class=news>В статье Максима Поршнева рассказывается 
+                  о функциональных возможностях специализированного решения 
+                  1С-PDM на базе платформы 1с:Предприятие 8.0. Система 1С-PDM 
+                  предназначена для организации коллективной работы специалистов 
+                  промышленных предприятий на этапах 
+                  конструкторско-технологической подготовки 
+                производства.</FONT></TD></TR></TBODY></TABLE>
+      <br>
+      <TABLE width="100%">
+              <TBODY>
+              <TR>
+                <TD><A class=rightmenu 
+                  href="http://v8.1c.ru/info/aboutus/platforma_1C.pdf">Программный 
+                  комплекс «1С:Предприятие 8.0» как платформа разработки 
+                  бизнес-приложений КТПП.</A> <FONT class=news_small 
+                  color=#003399>[И.Берендеев / "САПР и ГРАФИКА", июнь, 
+                  2005]</FONT></TD></TR>
+              <TR>
+                <TD><FONT class=news>В статье Ивана Берендеева иллюстрируются 
+                  возможности создания инженерных приложений на базе платформы 
+                  "1С:Предприятие 8.0". </FONT></TD></TR></TBODY></TABLE>
+      <br>
+      <TABLE width="100%">
+              <TBODY>
+              <TR>
+                <TD><A class=rightmenu 
+                  href="http://v8.1c.ru/info/aboutus/1C_PDM.pdf">Можно ли 
+                  скроить целиком?</A> <FONT class=news_small 
+                  color=#003399>[Д.Красковский / "САПР и ГРАФИКА", июнь, 
+                  2005]</FONT></TD></TR>
+              <TR>
+                <TD><FONT class=news>PDM на платформе «1С:Предприятие 8.0» — 
+                  новый подход к организации ЕИП на предприятии. Интервью с 
+                  генеральным директором ЗАО APPIUS Александром 
+          Тимошиным</FONT></TD></TR></TBODY></TABLE></td>
+  </tr>
+</table>
+
+<!--#include virtual="/_footer.inc" -->

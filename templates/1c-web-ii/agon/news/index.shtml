@@ -1,0 +1,26 @@
+<!--#include virtual="/_header.inc" -->
+
+<table width="100%"  border="0" cellspacing="0" cellpadding="10"> 
+  <tr>
+    <td><h1><img src="../images/icon_news.gif" width="200" height="176" align="right">Новости:</h1>
+      <p class="news"><span class="news_data">10.08.05</span> / <a href="/news/2005-08-10-01.shtml" class="news">ПРИМЕР
+          ВНУТРЕННЕЙ НОВОСТИ</a> </p>
+      <p class="news"><span class="news_data">09.08.05</span> / <a href="http://www.1c.ru/news/info.jsp?id=4287" class="news">"Конфигурирование
+            прикладного решения "1С:Предприятие 8.0. Управление торговлей" - курс
+        обучения в 1С:Учебном Центре №1 </a> </p>
+      <p class="news"><span class="news_data">09.08.05</span> / <a href="http://www.1c.ru/news/info.jsp?id=4286" class="news">"Конфигурирование
+          бухгалтерской подсистемы в прикладных решениях "1С:Предприятия 8.0" -
+          курс обучения в 1С:Учебном Центре №1 </a> </p> 
+      <p class="news"><span class="news_data">09.08.05</span> / <a href="http://www.1c.ru/news/info.jsp?id=4285" class="news">Выездной
+          тренинг "Коммуникативная компетентность руководителя" в г. Санкт-Петербург
+          03-05 сентября 2005г. </a> </p>
+      <p class="news"><span class="news_data">08.08.05</span> / <a href="http://www.1c.ru/news/info.jsp?id=4283" class="news">О
+          выходе "1С:Бухгалтерии 8.0 для Беларуси" </a> </p>
+      <p class="news"><span class="news_data">08.08.05</span> / <a href="http://www.1c.ru/news/pressrelise.jsp?id=393" class="news">«1C-Учебному
+          центру № 3» – 5 лет </a> </p>
+      <p class="news"><span class="news_data">05.08.05</span> / <a href="http://www.1c.ru/news/info.jsp?id=4282" class="news">Игровая
+          Демосистема. Обновление №3</a></p></td>
+  </tr>
+</table>
+
+<!--#include virtual="/_footer.inc" -->

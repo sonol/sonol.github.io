@@ -1,0 +1,15 @@
+<!--#include virtual="/_header.inc" -->
+
+<table width="100%"  border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td>
+      <h1><strong>Методические семинары по бюджетному учету </strong></h1>
+      <p><em>Новостная лента мероприятий в формате: </em></p>
+      <p>Дата </p>
+      <p>Название </p>
+      <p>Краткое описание </p>
+      <p>Программа <em>(ссылка с названия на файл с программой) </em></p>    </td>
+  </tr>
+</table>
+
+<!--#include virtual="/_footer.inc" -->

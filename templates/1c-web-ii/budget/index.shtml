@@ -1,0 +1,45 @@
+<!--#include virtual="/_header.inc" -->
+
+<table width="100%"  border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td>
+      <h1 align="center"><strong>Бюджетным учреждениям </strong><strong></strong></h1>
+      <h2><strong> </strong><strong>Программные продукты для бюджетного учета: </strong></h2>
+      <ul>
+        <li><a href="/budget/products.shtml#bb"> Бухгалтерия для бюджетных учреждений </a></li>
+        <li> <a href="/budget/products.shtml#brasp">Бухгалтерия для распорядителей бюджетных средств </a></li>
+        <li> <a href="/budget/products.shtml#vd">1С:Вещевое довольствие</a></li>
+        <li> <a href="/budget/products.shtml#bmo">1С:Бюджет муниципального образования</a></li>
+        <li> <a href="/budget/products.shtml#svod">1С:Свод отчетов 7.7</a></li>
+        <li><a href="/budget/products.shtml#army"> 1С:Воинская часть 7.7</a></li>
+        <li> <a href="/budget/products.shtml#zik">1С:Зарплата и Кадры 7.7 ПРОФ</a>  </li>
+        <li><a href="http://template.1c.ru/budget/obr.shtml"> Решения для образования</a></li>
+        <li><a href="/budget/products.shtml#its">ИТС. Бюджет</a><strong>&nbsp; </strong></li>
+      </ul>      
+      <h2><strong><a href="/budget/seminars.shtml">Методические семинары по бюджетному учету </a></strong></h2>
+      <h2><strong>Методические и рекламные материалы. Сертификаты </strong></h2>
+      <ul>
+        <li><a href="http://www.1c.ru/ftp/pub/demo/1c/1CBudRol.exe" target="_blank">Деморолик «1С:Бухгалтерия для бюджетных учреждений» </a><br>
+          (самораспаковывающийся архив ~ 34 MБ. Продолжительность 50 мин. Выпущен 30.11.2006)</li>
+        <li><a href="http://www.1c.ru/ftp/pub/demo/1c/svod.exe" target="_blank">Деморолик «1С:Свод отчетов 7.7» </a>(самораспаковывающийся архив ~ 12 MБ. Продолжительность 28 минут. Выпущен 28.07.06). <strong></strong></li>
+        <li><strong><a href="http://www.1c.ru/rus/partners/adv/budg_ITS.pdf">Листовка «ИТС для бюджетных учреждений»</a></strong> (макет формата pdf, 1.7 МБ)</li>
+        <li><strong><a href="http://www.1c.ru/rus/partners/adv/1c_svod77.pdf">Листовка «1С:Свод отчетов 7.7»</a> </strong>(макет формата pdf, 46 кБ) </li>
+        <li><a href="http://www.1c.ru/rus/products/1c/predpr/2006-09-budjet-municipal.pdf">Листовка «1С:Бюджет муниципального образования»</a></li>
+        <li><strong><a href="http://www.1c.ru/rus/partners/adv/budg_buh.pdf" target="_blank">Буклет «1С:Бухгалтерия для бюджетных учреждений»</a></strong></li>
+        <li><strong><a href="http://www.1c.ru/rus/partners/adv/bbl.pdf">Листовка «1С:Бухгалтерия для бюджетных учреждений»</a></strong></li>
+        <li><strong><a href="http://www.1c.ru/rus/partners/adv/2006-11-vesch-dov-7_7.pdf">Листовка «1С:Вещевое довольствие»</a></strong></li>
+        <li>Каталог «Решения для образования» </li>
+        <li>Листовка «1С:ХроноГраф Школа» </li>
+        <li>Листовка «1С:ХроноГраф Тарификация» </li>
+        <li>Листовка «1С:ХроноГраф Расписание» </li>
+        <li>Листовка «1С:Библиотека» </li>
+        <li>Листовка «1С:Школьное Питание ПРОФ» </li>
+        <li>Диплом Всероссийского форума «Образовательная среда – 2005» </li>
+        <li>Диплом Всероссийского форума «Образовательная среда – 2006» </li>
+        <li>Сертификат соответствия «1С:ХроноГраф Школа 2.0». Госстандарт России </li>
+        <li>Сертификат соответствия «1С:ХроноГраф Школа 2.0». Система «Инкомтехсерт»</li>
+        </ul>      </td>
+  </tr>
+</table>
+
+<!--#include virtual="/_footer.inc" -->

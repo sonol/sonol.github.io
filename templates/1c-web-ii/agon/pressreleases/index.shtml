@@ -1,0 +1,61 @@
+<!--#include virtual="/_header.inc" -->
+
+<table width="100%"  border="0" cellspacing="0" cellpadding="10"> 
+  <tr>
+    <td><h1>Пресс-релизы:</h1>
+      <TABLE cellSpacing=1 cellPadding=5 width="100%" bgColor=#ffd700 
+            border=0>
+        <TBODY>
+          <TR>
+            <TD bgColor=#ffffff>              <P><FONT color=#c10000><STRONG>06.09.2005</STRONG></FONT> <STRONG>Пример заголовка пресс-релиза. </STRONG><BR>
+                            <BR>
+                            <FONT 
+                  class=news_small>Краткий анонс пресс-релиза. Тут следует вкратце изложить какое произошло событие и к каким результатам оно привело. Обычно для этого используется первый вводный абзац самого пресс-релиза .</FONT> <A 
+                  href="/pressreleases/2005-09-06-01.shtml">Подробнее...</A> </P></TD>
+            <TD vAlign=center bgColor=#fefeb6><A 
+                  href="/pressreleases/2005-09-06-01.shtml"><IMG 
+                  src="/images/pressreleases/2005-09-06-01.gif" width=124 height="93" border=0></A></TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <br>
+      <TABLE cellSpacing=1 cellPadding=5 width="100%" bgColor=#ffd700 
+            border=0>
+        <TBODY>
+          <TR>
+            <TD bgColor=#ffffff>
+              <P><FONT color=#c10000><STRONG>01.09.2005</STRONG></FONT> <STRONG>Рестораны Антона Табакова автоматизируются с помощью программного продукта «1С-Рарус:Управление рестораном» на платформе «1С:Предприятие 8.0»</STRONG><BR>
+                            <BR>
+                            <FONT 
+                  class=news_small>Компания «1С-Рарус» автоматизировала управление и учет в ресторанах «Обломовъ на Пресне», «Архитектор» и кофейне «Илья Ильич», принадлежащих ресторатору Антону Табакову. Автоматизация выполнена на базе нового программного продукта «1С-Рарус:Управление рестораном (бэк-офис), ред.1», разработанного на платформе «1С:Предприятие 8.0». В результате внедрения новой системы автоматизации владелец получил эффективный инструмент для контроля деятельности своих предприятий.</FONT> <A 
+                  href="http://www.v8.1c.ru/news/newsAbout.jsp?id=721">Подробнее...</A> </P></TD>
+            <TD vAlign=center bgColor=#fefeb6><A 
+                  href="http://www.v8.1c.ru/news/newsAbout.jsp?id=721"><IMG 
+                  src="/images/pressreleases/2005-09-01-01.gif" width=124 height="123" 
+                  border=0></A></TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <br>
+      <TABLE cellSpacing=1 cellPadding=5 width="100%" bgColor=#ffd700 
+            border=0>
+        <TBODY>
+          <TR>
+            <TD bgColor=#ffffff>
+              <P><FONT color=#c10000><STRONG>26.08.2005</STRONG></FONT> <STRONG>«1С:Управление торговлей 8.0» и «1С-Логистика:Управление складом» интегрируют бизнес-процессы «ПОЛИТЕХ-ИНСТРУМЕНТ»</STRONG><BR>
+                            <BR>
+                            <FONT 
+                  class=news_small>Компании «AXELOT» и «ЭКОСЛАВ» завершили совместный проект по автоматизации торговой деятельности и складского хозяйства в компании «ПОЛИТЕХ-ИНСТРУМЕНТ» – оптовом поставщике ручного строительного инструмента. В ходе проекта внедрены решения «1С:Управление торговлей 8.0» и «1С-Логистика:Управление складом» в виде единой информационной бизнес-системы на платформе «1С:Предприятие 8.0». </FONT><A 
+                  href="http://www.v8.1c.ru/news/newsAbout.jsp?id=709">Подробнее...</A> </P></TD>
+            <TD vAlign=center bgColor=#fefeb6><A 
+                  href="http://www.v8.1c.ru/news/newsAbout.jsp?id=709"><IMG 
+                  src="/images/pressreleases/2005-08-26-01.gif" width=124 height="103" 
+                  border=0></A></TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      </td>
+  </tr>
+</table>
+
+<!--#include virtual="/_footer.inc" -->
